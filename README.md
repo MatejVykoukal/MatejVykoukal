@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **anything Frontend related.**
 
-- 👨‍💻 All of my projects are available at [http://matejvykoukal.cz/](http://matejvykoukal.cz/)
+- 👨‍💻 All of my projects are available at [https://matejvykoukal.cz/](http://matejvykoukal.cz/)
 
 - 📫 How to reach me **matej.vykoukal248@gmail.com**
 
