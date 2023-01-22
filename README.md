@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at [BudgetBakers](https://budgetbakers.com/)
 
-- 🌱 I’m currently learning **Web Accesibility, Next.js, Backend**
+- 🌱 I’m currently learning **Backend Technologies**
 
-- 👯 I’m looking to collaborate on **anything Frontend related.**
+- 👯 I’m looking to collaborate on **Anything Web related.**
 
 - 👨‍💻 All of my projects are available at [https://matejvykoukal.cz/](http://matejvykoukal.cz/)
 
